@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## about me in code
 ```js 
 const EduardoP103 = {
   pronouns: "he" | "him",
@@ -8,7 +8,7 @@ const EduardoP103 = {
  }
  ```
  
- You can find me 🌎
+ ## you can find me 🌎
  - [Instagram](https://www.instagram.com/eduardo_pastor18)
  - [Linkedin](https://www.linkedin.com/in/eduardo-pastor-8917631a5)
  
