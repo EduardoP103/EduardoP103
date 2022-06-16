@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **JAVA, Python, HTML, CSS**
+- 💬 Ask me about **JAVA, Python, HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **eduardopastor103@gmail.com**
 
