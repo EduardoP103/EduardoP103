@@ -15,7 +15,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://bio-link-orcin.vercel.app/">World</a></b>.
+    Hello<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://bio-link-orcin.vercel.app/">World</a></b>.
     <br><br>
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
