@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **JAVA, Python, HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **JAVA, Python, HTML, CSS, JAVASCRIPT, DART**
 
 - 📫 How to reach me **eduardopastor103@gmail.com**
 
