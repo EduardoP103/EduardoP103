@@ -59,4 +59,4 @@ const EduardoP103 = {
  
 [![EduardoP103's github stats](https://github-readme-stats.vercel.app/api?username=eduardop103)](https://github.com/anuraghaza/github-readme-stats)
 
-Here are some ideas to get you started: 
+
