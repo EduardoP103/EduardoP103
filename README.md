@@ -38,7 +38,7 @@ const EduardoP103 = {
  ```
  
  ## you can find me 🌎
- - [Instagram](https://www.instagram.com/eduardo_pastor18)
+ 
  - [Linkedin](https://www.linkedin.com/in/eduardo-pastor-8917631a5)
  
 [![EduardoP103's github stats](https://github-readme-stats.vercel.app/api?username=eduardop103)](https://github.com/anuraghaza/github-readme-stats)
